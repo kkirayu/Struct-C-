@@ -1,0 +1,7 @@
+# ninja log v6
+1	191	1741852757127421055	CMakeFiles/prak2.dir/main.cpp.o.ddi	cdd494d9042dff6b
+191	198	1741852757324723812	CMakeFiles/prak2.dir/CXX.dd	e0ae5089fc4e94c0
+191	198	1741852757324723812	CMakeFiles/prak2.dir/main.cpp.o.modmap	e0ae5089fc4e94c0
+191	198	1741852757324723812	/home/vermouth/CLionProjects/prak2/cmake-build-debug/CMakeFiles/prak2.dir/CXXModules.json	e0ae5089fc4e94c0
+198	1006	1741852757324723812	CMakeFiles/prak2.dir/main.cpp.o	3ab1023e237327f5
+1007	1119	1741852758134163737	prak2	4919c805ab03bb88

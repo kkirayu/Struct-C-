@@ -1,0 +1,3 @@
+/home/vermouth/CLionProjects/prak2/cmake-build-debug/CMakeFiles/prak2.dir
+/home/vermouth/CLionProjects/prak2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vermouth/CLionProjects/prak2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
